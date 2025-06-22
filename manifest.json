@@ -1,25 +1,25 @@
 {
-    "name": "Community Visualization",
-    "logoUrl": "https://raw.githubusercontent.com/googledatastudio/community-visualizations/master/docs/codelab/img/table-chart.png",
-    "organization": "Looker Studio Codelab",
-    "organizationUrl": "https://url",
-    "termsOfServiceUrl": "https://url",
-    "supportUrl": "https://url",
-    "packageUrl": "https://url",
-    "privacyPolicyUrl": "https://url",
-    "description": "Community Visualization Codelab",
-    "devMode": true,
-    "components": [
-        {
-            "id": "tableChart",
-            "name": "Table",
-            "iconUrl": "https://raw.githubusercontent.com/googledatastudio/community-visualizations/master/docs/codelab/img/table-chart.png",
-            "description": "A simple table chart.",
-            "resource": {
-                "js": "https://aarondsimons.github.io/community-viz-codelab/viz-codelab.js",
-                "config": "https://aarondsimons.github.io/community-viz-codelab/viz-codelab.json",
-                "css": "https://aarondsimons.github.io/community-viz-codelab/viz-codelab.css"
-            }
-        }
-    ]
+  "name": "Community Visualization",
+  "logoUrl": "https://raw.githubusercontent.com/googledatastudio/community-visualizations/master/docs/codelab/img/table-chart.png",
+  "organization": "Looker Studio Codelab",
+  "organizationUrl": "https://aarondsimons.github.io/community-viz-codelab/",
+  "termsOfServiceUrl": "https://aarondsimons.github.io/community-viz-codelab/",
+  "supportUrl": "https://aarondsimons.github.io/community-viz-codelab/",
+  "packageUrl": "https://aarondsimons.github.io/community-viz-codelab/",
+  "privacyPolicyUrl": "https://aarondsimons.github.io/community-viz-codelab/",
+  "description": "Community Visualization Codelab",
+  "devMode": true,
+  "components": [
+    {
+      "id": "tableChart",
+      "name": "Table",
+      "iconUrl": "https://raw.githubusercontent.com/googledatastudio/community-visualizations/master/docs/codelab/img/table-chart.png",
+      "description": "A simple table chart.",
+      "resource": {
+        "js": "https://aarondsimons.github.io/community-viz-codelab/viz-codelab.js",
+        "config": "https://aarondsimons.github.io/community-viz-codelab/viz-codelab.json",
+        "css": "https://aarondsimons.github.io/community-viz-codelab/viz-codelab.css"
+      }
+    }
+  ]
 }
